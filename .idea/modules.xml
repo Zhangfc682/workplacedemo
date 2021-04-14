@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CollectionsDemo/CollectionsDemo.iml" filepath="$PROJECT_DIR$/CollectionsDemo/CollectionsDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DayTest/DayTest.iml" filepath="$PROJECT_DIR$/DayTest/DayTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaWebDemo/JavaWebDemo.iml" filepath="$PROJECT_DIR$/JavaWebDemo/JavaWebDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NetDemo/NetDemo.iml" filepath="$PROJECT_DIR$/NetDemo/NetDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReflectionDemo/ReflectionDemo.iml" filepath="$PROJECT_DIR$/ReflectionDemo/ReflectionDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StaticWebDemo/StaticWebDemo.iml" filepath="$PROJECT_DIR$/StaticWebDemo/StaticWebDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java11Demo/java11Demo.iml" filepath="$PROJECT_DIR$/java11Demo/java11Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java8Demo/java8Demo.iml" filepath="$PROJECT_DIR$/java8Demo/java8Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threadDemo/threadDemo.iml" filepath="$PROJECT_DIR$/threadDemo/threadDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threadSafe/threadSafe.iml" filepath="$PROJECT_DIR$/threadSafe/threadSafe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workplace1.iml" filepath="$PROJECT_DIR$/workplace1.iml" />
+    </modules>
+  </component>
+</project>
